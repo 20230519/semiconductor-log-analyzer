@@ -13,9 +13,9 @@ Ensure you have Python installed, along with the required libraries:
 ```bash
 pip install pandas matplotlib
 
-Usage
-1.Replace "your_file.csv" in the script with the path to your CSV file.
-2.Specify the column names in the x_column and y_column variables.
-3.Run the script:
+## Usage
+- **Replace**: "your_file.csv" in the script with the path to your CSV file.
+- ****:Specify the column names in the x_column and y_column variables.
+- **Run the project**:
 ```python data_analysis.py
 
