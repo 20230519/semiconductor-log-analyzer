@@ -12,10 +12,11 @@ This is a simple Python script for reading, analyzing, and visualizing CSV data.
 Ensure you have Python installed, along with the required libraries:
 ```bash
 pip install pandas matplotlib
-
+```
 ## Usage
 - **Replace**: "your_file.csv" in the script with the path to your CSV file.
-- ****:Specify the column names in the x_column and y_column variables.
+- **Specify**:Specify the column names in the x_column and y_column variables.
 - **Run the project**:
-```python data_analysis.py
+```bash
+python data_analysis.py
 
