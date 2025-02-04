@@ -19,4 +19,6 @@ pip install pandas matplotlib
 - **Run the project**:
 ```bash
 python data_analysis.py
-
+```
+## License
+本工具为XX厂时机案例脱敏版本
